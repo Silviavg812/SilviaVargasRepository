@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f55a343-f5c9-41b9-adf6-2449775eeb65" name="Changes" comment="">
+    <list default="true" id="e58a5e28-72f3-43cd-b41a-ac5255fb57f3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../PracticaExamen011025/src/Entrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoPlanificadorSilviaVargas/src/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoPlanificadorSilviaVargas/src/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoPlanificacionSilviaVargas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoPlanificacionSilviaVargas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoPlanificacionSilviaVargas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entrada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProyectoPlanificador_SilviaVargas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoPlanificador_SilviaVargas/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProyectoPlanificador_SilviaVargas/src/main/java/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoPlanificador_SilviaVargas/src/main/java/Entrada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProyectoPlanificador_SilviaVargas/src/main/java/model/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoPlanificador_SilviaVargas/src/main/java/model/Lista.java" afterDir="false" />
@@ -31,9 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="33HNmhkIbwwxocI4OB1z8EDG6WI" />
+  <component name="ProjectId" id="33IEQAQwux9QKDNoaeAWOCjthED" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -41,51 +41,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Entrada.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hinox/Documents/GitHub/Clase_DI/ProyectoPlanificacionSilviaVargas&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hinox/Documents/GitHub/Clase_DI/ProyectoPlanificacionSilviaVargas/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Entrada.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/hinox/Documents/GitHub/Clase_DI/ProyectoPlanificadorSilviaVargas",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hinox\Documents\GitHub\Clase_DI\ProyectoPlanificacionSilviaVargas" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Entrada" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Entrada" />
-      <module name="Silvia_Vargas_DAM1___" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0f55a343-f5c9-41b9-adf6-2449775eeb65" name="Changes" comment="" />
-      <created>1758970199586</created>
+      <changelist id="e58a5e28-72f3-43cd-b41a-ac5255fb57f3" name="Changes" comment="" />
+      <created>1758996168859</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1758970199586</updated>
+      <updated>1758996168859</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
