@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="350.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.contactos.controller.EditContactController">
+   <center>
+      <VBox alignment="CENTER" prefHeight="243.0" prefWidth="540.0" spacing="20.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextField fx:id="textFieldEditName" promptText="Editar nombre del contacto" />
+            <TextField fx:id="textFieldEditSurname" promptText="Editar apellido del contacto" />
+            <TextField fx:id="textFieldEditNumber" promptText="Editar numero del contacto" />
+            <TextField fx:id="textFieldEditMail" promptText="Editar correo electronico del contacto" />
+            <HBox alignment="CENTER" prefHeight="41.0" prefWidth="540.0" spacing="30.0" VBox.vgrow="NEVER">
+               <children>
+                  <Button fx:id="buttonConfirmEdit" mnemonicParsing="false" prefHeight="60.0" prefWidth="100.0" text="Editar" textFill="#41a94d" />
+                  <Button fx:id="buttonCancelEdit" mnemonicParsing="false" prefHeight="60.0" prefWidth="100.0" text="Cancelar" textFill="#c12323" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </center>
+   <padding>
+      <Insets left="30.0" right="30.0" top="30.0" />
+   </padding>
+   <top>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Editar contacto" BorderPane.alignment="CENTER">
+         <font>
+            <Font name="Sitka Text" size="25.0" />
+         </font>
+      </Text>
+   </top>
+</BorderPane>
